@@ -1,0 +1,35 @@
+*,html,body {padding: 0;margin: 0;text-decoration: none;box-sizing: border-box;list-style: none;}
+.svg{width: 100%;height: 100vh;}
+.rect1{x:0%;y:0%; width: 100%; height: 
+90%;rx:0%;ry:100%;fill:#93d6e1;}
+
+.rect2{x:0%;y:45%; width: 100%; height: 
+25%;rx:0%;ry:75%;fill:#253a97;}
+ 
+.rect3{x:0%;y:70%; width: 100%; height: 
+35%;rx:0%;ry:100%;fill:#d7d83d;}
+
+.circle1{cx:1150px;cy:720px; r:100px; fill:white;stroke-width:15px;stroke:red;}
+
+.circle2{cx:1150px;cy:720px; r:50px; fill:white; stroke-width:7px;stroke:red;}
+
+.circle3{cx:1150px;cy:720px; r:70px; fill:white; stroke-width:7px; stroke:red;}
+ 
+.circle4{cx:1150px;cy:720px; r:30px; fill:white; stroke-width:7px;stroke:red;}
+
+
+
+ 
+.rect4{x:792px;y:395px; width: 50px; height:20px;rx:50px;ry:5px;fill:brown;}
+.rect5{x:792px;y:420px; width: 50px; height:20px;rx:50px;ry:5px;fill:brown;}
+ 
+ 
+
+
+.rect7{x:380px;y:680px; width: 50px; height:40px;rx:40px;ry:5px;fill:brown;}
+.rect8{x:760px;y:680px; width: 50px; height:40px;rx:40px;ry:5px;fill:brown;}
+ 
+ 
+
+ 
+
